@@ -1,0 +1,9 @@
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\bin\Debug\HttpListnerTest.exe.config
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\bin\Debug\HttpListnerTest.exe
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\bin\Debug\HttpListnerTest.pdb
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\obj\Debug\HttpListnerTest.csprojResolveAssemblyReference.cache
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\obj\Debug\HttpListnerTest.exe
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\obj\Debug\HttpListnerTest.pdb
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\bin\Debug\Rhino3dmIO.dll
+c:\users\min\documents\visual studio 2015\Projects\HttpListnerTest\HttpListnerTest\bin\Debug\Newtonsoft.Json.xml
